@@ -1,5 +1,5 @@
 # FileManipulation Fiz uma pequeno script que lê um arquivo do tipo Formato (source.csv) com os dados dos produtos vendidos nome,preco,quantidade itens em seguida ao lê o arquivos dentro
- ele calcula o valor total de vendas de cada produtos de intens vendidos. Dpeois de calcular o script gava os valores total vendas de cada vendido e sua descrição nome dos produtos em outro
+ ele calcula o valor total de vendas de cada produtos de intens vendidos. Depeois de calcular o script e grava os valores total vendas de cada vendido e sua descrição nome dos produtos em outro
  arquivo dentro de outra sub-pasta chamado out com nome do arquivo chamado summary.csv.
 
  Para que o script funciona deve criar um diretório chamado vendas com arquivo dentro chamado source.csv
